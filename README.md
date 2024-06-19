@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Agrawal</h1>
 <h3 align="center">Passionate coder and web developer with a knack for problem-solving and a strong foundation in Data Structures and Algorithms. Transforming ideas into seamless digital experiences. 💻 Expert in DSA and competitive programming. Constantly learning and evolving in the ever-changing tech landscape.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwih77fW8o6EAxWybGwGHSBMB9sQMygEegUIARCAAQ..i&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwih77fW8o6EAxWybGwGHSBMB9sQMygEegUIARCAAQ"/>
-- 🔭 I’m currently working on [LearnLocate](https://github.com/ayushagrawal07/LearnLocate)
+- 🔭 I’m currently working on [TechTribe]
 
 - 📫 How to reach me **ayushagrawal1225@gmail.com**
 
