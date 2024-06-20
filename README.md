@@ -66,13 +66,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushagrawal07&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<h3 align="center">📝 Latest Blog Posts:</h3>
-
-<!-- BLOG-POST-LIST:START -->
-- [Introduction to GraphQL](https://example.com)
-- [Diving Deep into React Hooks](https://example.com)
-<!-- BLOG-POST-LIST:END -->
-
-<p align="center">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@ayushagrawal07" alt="Latest Medium Articles" />
-</p>
